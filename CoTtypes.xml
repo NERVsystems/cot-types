@@ -38,7 +38,7 @@
 
 <types>
   <cot cot="a-.-A"                     full="Air/Air Track"                                                 desc="Air Track"                                                              />
-  <cot zot="a-.-A-C"                   full="Air/Civ"                                                       desc="CIVIL AIRCRAFT"                                                         />
+  <cot cot="a-.-A-C"                   full="Air/Civ"                                                       desc="CIVIL AIRCRAFT"                                                         />
   <cot cot="a-.-A-C-F"                 full="Air/Civ/fixed"                                                 desc="FIXED WING"                                                             />
   <cot cot="a-.-A-C-F-q"               full="Air/Civ/fixed/rpv, drone, uav"                                 desc="FIXED WING RPV/Drone"                                                   />
   <cot cot="a-.-A-C-H"                 full="Air/Civ/rotary"                                                desc="ROTARY WING"                                                            />
